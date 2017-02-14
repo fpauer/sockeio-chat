@@ -4,4 +4,6 @@
 
 2) ` npm install `
 
+3) ` npm run start `
+
 Running on port: 8080
